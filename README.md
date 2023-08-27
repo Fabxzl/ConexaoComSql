@@ -101,7 +101,7 @@ Não hesite em aproveitar esses benefícios e adaptá-los ao seu contexto espec�
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Fabxzl/conexaoComSql.git
+   git clone https://github.com/Fabxzl/ConexaoComSql.git
     ```
 2. Instale as bibliotecas necessárias:
     ```
